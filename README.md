@@ -1,7 +1,8 @@
 -  Hi, I’m @SanSai01.
--  I’m good at the math.
+-  I'm in love with the elder scrolls series
 -  I’m currently learning a code.
--  I want make a game.
+-  I am interested in software and I enjoy      developing a project.
+-  I mostly improve myself with C# language.
 
 <!---
 SanSai01/SanSai01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
